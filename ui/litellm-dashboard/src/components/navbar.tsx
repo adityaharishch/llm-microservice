@@ -110,16 +110,6 @@ const Navbar: React.FC<NavbarProps> = ({
               borderRadius: "8px", // Added border-radius property
             }}
           >
-            <a
-              href="https://calendly.com/d/4mp-gd3-k5k/litellm-1-1-onboarding-chat"
-              target="_blank"
-              style={{
-                fontSize: "14px",
-                textDecoration: "underline",
-              }}
-            >
-              Get enterprise license
-            </a>
           </div>
         ) : null}
 
